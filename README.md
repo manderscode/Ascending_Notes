@@ -41,7 +41,7 @@ More information regarding how to configure Jest (https://jestjs.io/docs/configu
 
 Our files are organized according to components. Each component has its own file and the respective test in the same folder.
 
-#Testing
+# Testing
 
 Option 1: 
 1. Open the test you want to run
@@ -54,6 +54,8 @@ Option 2:
 VSCode Extension: download "Jest Run It" VSCode extension and then click on the "Run" button 
 
 <img width="683" alt="Screenshot 2024-02-05 at 8 03 17 PM" src="https://github.com/manderscode/Ascending_Notes/assets/102008028/65c49c8f-d81a-40cf-97c3-aa3401aed3cc">
+
+
 
 
 
