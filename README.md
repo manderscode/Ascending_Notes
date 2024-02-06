@@ -2,7 +2,7 @@
 
 This documentation aims to ensure that our components function according to CRUD and reliably in our Ascending Notes application. Users will also have the ability to star their notes to mark its importance and also delete notes.
 
-Our target audience is people who are fellow students, developers, QA engineers who are interested in using and testing our notes application. 
+Our target audience are fellow students, developers, QA engineers who are interested in using and testing our notes application. 
 
 Unit tests are essential and play a crucial role in the overall testing strategy by focusing on individual units or components of a software system. Unit tests for React components are there to help catch bugs early in the development process and ensure that each component behaves as expected. Testing is necessary for the following reasons: bug detection and prevention, enhanced user experience, increased confidence in releases, cost savings, maintaining business reputation, adaptability and scalability, and regulatory compliance.Ω
 
@@ -31,6 +31,7 @@ Dependencies:
         "vite": "^5.0.8"
       }
 
+More information regarding how to configure Jest (https://jestjs.io/docs/configuration) and React Testing Library can be found on the official documentation website. 
 
 
 
