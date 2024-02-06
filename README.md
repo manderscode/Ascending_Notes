@@ -1,4 +1,6 @@
-## Introduction
+## Ascending Notes Documentation
+
+# Introduction
 
 This documentation aims to ensure that our components function according to CRUD and reliably in our Ascending Notes application. Users will also have the ability to star their notes to mark its importance and also delete notes.
 
@@ -6,7 +8,9 @@ Our target audience are fellow students, developers, QA engineers who are intere
 
 Unit tests are essential and play a crucial role in the overall testing strategy by focusing on individual units or components of a software system. Unit tests for React components are there to help catch bugs early in the development process and ensure that each component behaves as expected. Testing is necessary for the following reasons: bug detection and prevention, enhanced user experience, increased confidence in releases, cost savings, maintaining business reputation, adaptability and scalability, and regulatory compliance.Ω
 
-## Test Environment Set Up
+# Test Environment Set Up
+
+We utilize Jest to test our app and we hae version 29.7.0.
 
 Dependencies:
 
@@ -31,11 +35,32 @@ Dependencies:
         "vite": "^5.0.8"
       }
 
-More information regarding how to configure Jest (https://jestjs.io/docs/configuration) and React Testing Library can be found on the official documentation website. 
+More information regarding how to configure Jest (https://jestjs.io/docs/configuration) and React Testing Library (https://testing-library.com/docs/react-testing-library/setup/) can be found on the official documentation website. 
 
 #Test File Structure
 
 Our files are organized according to components. Each component has its own file and the respective test in the same folder.
+
+#Testing
+
+Option 1: 
+1. Open the test you want to run
+2. Open your terminal or another option is to open the terminal in VSCode using Ctrl + `
+3.Command: npm run test 
+
+OR 
+
+Option 2:
+VSCode Extension: download "Jest Run It" VSCode extension and then click on the "Run" button 
+
+<img width="683" alt="Screenshot 2024-02-05 at 8 03 17 PM" src="https://github.com/manderscode/Ascending_Notes/assets/102008028/65c49c8f-d81a-40cf-97c3-aa3401aed3cc">
+
+
+
+
+
+
+
 
 
 
