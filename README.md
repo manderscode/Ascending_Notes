@@ -10,7 +10,12 @@ Unit tests are essential and play a crucial role in the overall testing strategy
 
 # Test Environment Set Up
 
-We utilize Jest to test our app and we hae version 29.7.0.
+Ensure that you have Jest and React Testing Library installed in your project. You can install them using npm: 
+npm install --save-dev @testing-library/react @testing-library/jest-dom
+
+
+
+We utilize Jest to test our app and we have version 29.7.0.
 
 Dependencies:
 
