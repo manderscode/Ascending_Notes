@@ -33,5 +33,13 @@ Dependencies:
 
 More information regarding how to configure Jest (https://jestjs.io/docs/configuration) and React Testing Library can be found on the official documentation website. 
 
+#Test File Structure
+
+Our files are organized according to components. Each component has its own file and the respective test in the same folder.
+
+
+
+
+
 
 
